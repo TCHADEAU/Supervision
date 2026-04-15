@@ -1,4 +1,4 @@
-# 📡 Guide Complet de Supervision du Système d'Information
+# 📡 Guide Complet d'installation des outils de supervision de la STE
 
 > **Serveurs x86 Linux** — Installation, configuration et maintenance d'une stack de supervision complète en environnement d'entreprise
 
